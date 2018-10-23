@@ -1,0 +1,4 @@
+int x = 0;
+for (int y = 10; y < x; x++) {
+  cout << "Boo-Yah!" << endl;
+}
